@@ -1,5 +1,7 @@
 # Lalafo-cars-model
 INAI - COURSE PROJECT
 
-PYTHON.
+PYTHON - FLASK - ANGULAR
+JS - WEB-EXTENSION
+
 
